@@ -1,2 +1,2 @@
 # Projetos-de-Estudo
-pastas e projetos de estudo em DEV
+ Pastas e projetos de estudo em DEV
