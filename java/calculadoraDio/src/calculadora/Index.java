@@ -9,6 +9,7 @@ public class Index {
 
 		Scanner scan = new Scanner(System.in);
 		int a,b;
+		int global;
 		
 		System.out.println("Informar o primeiro numero: ");
 		a= scan.nextInt();
